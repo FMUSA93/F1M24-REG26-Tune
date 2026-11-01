@@ -1,0 +1,2 @@
+# keep the mod files byte-identical (install.ps1 checks their hash)
+mod/** -text
